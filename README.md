@@ -1,8 +1,3 @@
-<div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&center=true&vCenter=true&width=800&lines=Hi+%F0%9F%91%8B+I'm+VinayKrishna;MERN+Stack+Developer;Building+AI-Powered+Developer+Tools;React+%7C+Next.js+%7C+TypeScript;Always+Learning+New+Things)](https://git.io/typing-svg)
-
-</div>
 
 <h1 align="center">🚀 Welcome to My GitHub</h1>
 
@@ -13,12 +8,6 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel)](YOUR_PORTFOLIO)
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail)](mailto:vinaykrishna1515@gmail.com)
-
-</div>
-
-<div align="center">
-
-<img width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDVjYjY4MTI4OTc3ZjIzM2Q5MzBkYTBmNjFjNGMxNWM0NGI3NzVjYSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0HlNaQ6gWfllcjDO/giphy.gif">
 
 </div>
 
