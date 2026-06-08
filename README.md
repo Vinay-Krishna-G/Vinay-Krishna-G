@@ -47,6 +47,12 @@
 
 </div>
 
+<h2 align="center">🐍 Contribution Snake</h2>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Vinay-Krishna-G/Vinay-Krishna-G/snake-output/snake.svg" alt="snake animation" />
+</p>
+
 ---
 
 ## 🔥 Contribution Streak
