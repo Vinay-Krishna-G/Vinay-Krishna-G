@@ -1,69 +1,102 @@
-
-<h1 align="center">Hello there, I'm Vinay Krishna</h1>
-
-
-## 👨‍💻 About Me
-
-💻 MERN Stack Developer
-
-🚀 Building AI-Powered Developer Tools
-
-🛠 Currently working on:
-- CodeMelt Sanitize
-- PromptVault
-
-🌱 Learning:
-- Advanced TypeScript
-- Software Architecture
-- AI Integration
-
-⚡ Fun Fact:
-I enjoy building tools that enhance developers' productivity.
-
-## 🛠 Tech Stack
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,nodejs,express,mongodb,tailwind,git,github,vscode,vercel,figma,npm"/>
-
-</p>
-
-## 📊 GitHub Stats
-
-<p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
-
-</p>
-
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/vinay-krishna-gudikandula-44b889279/)
+# 👋 Hello, I'm Vinay Krishna
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel)](YOUR_PORTFOLIO)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code\&weight=500\&size=24\&pause=1000\&center=true\&vCenter=true\&width=700\&lines=MERN+Stack+Developer;Building+AI-Powered+Developer+Tools;React+%7C+Next.js+%7C+TypeScript;Always+Learning+and+Building)](https://git.io/typing-svg)
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail)](mailto:vinaykrishna1515@gmail.com)
+<img src="https://komarev.com/ghpvc/?username=Vinay-Krishna-G&label=Profile+Views&color=0e75b6&style=flat" />
 
 </div>
 
-## 🏆 Achievements
+---
 
-<p align="center">
+## 🚀 About Me
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&row=1"/>
+* 💻 MERN Stack Developer
+* 🚀 Building AI-Powered Developer Tools
+* 🛠 Currently building:
 
-</p>
+  * CodeMelt Sanitize
+  * PromptVault
+* 🌱 Learning:
+
+  * Advanced TypeScript
+  * Software Architecture
+  * AI Integrations
+* ⚡ Passionate about creating tools that improve developer productivity
+
+---
+
+## 🛠 Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,nodejs,express,mongodb,tailwind,git,github,vscode,vercel,figma,npm" />
+
+</div>
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Vinay-Krishna-G&show_icons=true&theme=tokyonight&hide_border=true" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vinay-Krishna-G&layout=compact&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+## 🔥 Contribution Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=Vinay-Krishna-G&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Vinay-Krishna-G&theme=tokyonight&no-frame=true&row=1&column=6" />
+
+</div>
+
+---
 
 ## 🚀 Featured Projects
 
-<a href="YOUR_REPO_LINK">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=codemelt-sanitize&theme=tokyonight"/>
+### CodeMelt Sanitize
+
+AI-powered repository analysis platform that transforms repositories into AI-friendly formats for modern developer workflows.
+
+### PromptVault
+
+Prompt management platform for organizing, storing, and optimizing AI prompts efficiently.
+
+---
+
+## 📫 Connect With Me
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/vinay-krishna-gudikandula-44b889279/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin" />
 </a>
 
-<a href="YOUR_REPO_LINK">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=promptvault&theme=tokyonight"/>
+<a href="mailto:vinaykrishna1515@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail" />
 </a>
 
+</div>
 
+---
+
+## 💡 Favorite Quote
+
+> First solve the problem. Then write the code.
