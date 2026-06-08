@@ -1,15 +1,6 @@
 
-<h1 align="center">🚀 Welcome to My GitHub</h1>
+<h1 align="center">Hello there, I'm Vinay Krishna</h1>
 
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/vinay-krishna-gudikandula-44b889279/)
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel)](YOUR_PORTFOLIO)
-
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail)](mailto:vinaykrishna1515@gmail.com)
-
-</div>
 
 ## 👨‍💻 About Me
 
@@ -46,6 +37,16 @@ I enjoy building tools that enhance developers' productivity.
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
 
 </p>
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/vinay-krishna-gudikandula-44b889279/)
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel)](YOUR_PORTFOLIO)
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail)](mailto:vinaykrishna1515@gmail.com)
+
+</div>
 
 ## 🏆 Achievements
 
