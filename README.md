@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&center=true&vCenter=true&width=800&lines=Hi+%F0%9F%91%8B+I'm+Vinnu;MERN+Stack+Developer;Building+AI-Powered+Developer+Tools;React+%7C+Next.js+%7C+TypeScript;Always+Learning+New+Things)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&center=true&vCenter=true&width=800&lines=Hi+%F0%9F%91%8B+I'm+VinayKrishna;MERN+Stack+Developer;Building+AI-Powered+Developer+Tools;React+%7C+Next.js+%7C+TypeScript;Always+Learning+New+Things)](https://git.io/typing-svg)
 
 </div>
 
@@ -8,11 +8,11 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](YOUR_LINK)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/vinay-krishna-gudikandula-44b889279/)
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel)](YOUR_PORTFOLIO)
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail)](mailto:YOUR_EMAIL)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail)](mailto:vinaykrishna1515@gmail.com)
 
 </div>
 
@@ -38,7 +38,7 @@
 - AI Integration
 
 ⚡ Fun Fact:
-I enjoy building tools that make developers more productive.
+I enjoy building tools that enhance developers' productivity.
 
 ## 🛠 Tech Stack
 
@@ -76,17 +76,4 @@ I enjoy building tools that make developers more productive.
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=promptvault&theme=tokyonight"/>
 </a>
 
-## 🐍 Contribution Snake
 
-![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.svg)
-
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile+Views&color=blue"/>
-
-</p>
-
-## 💭 Quote
-
-> First, solve the problem.
-> Then, write the code.
